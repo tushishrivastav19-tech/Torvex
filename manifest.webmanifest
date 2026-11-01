@@ -1,0 +1,12 @@
+{
+  "name":"TORVEX — Prepare. Progress. Prevail.",
+  "short_name":"TORVEX",
+  "description":"Academic intelligence meets racing progression.",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#090d15",
+  "theme_color":"#090d15",
+  "icons":[
+    {"src":"/icons/torvex.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
